@@ -124,7 +124,7 @@ export const GUESTS: Guest[] = [
   { slug: "yuriy-tamara", name: "Юрій та Тамара", type: "couple" },
   { slug: "ivan", name: "Іване", type: "single", gender: "m" },
   { slug: "baba", name: "бабушка Василіса", type: "single", gender: "f" },
-  { slug: "oleksandr-lyubov", name: "Ігор та Леся", type: "couple" },
+  { slug: "igor-lesya", name: "Ігор та Леся", type: "couple" },
   { slug: "valentina", name: "Валентина", type: "single", gender: "f" },
   { slug: "natali", name: "Наталя", type: "single", gender: "f" },
   { slug: "dmytro-tetiana", name: "Дмитро та Тетяна", type: "couple" },
