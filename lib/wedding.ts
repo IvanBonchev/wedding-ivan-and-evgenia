@@ -130,6 +130,7 @@ export const GUESTS: Guest[] = [
   { slug: "dmytro-tetiana", name: "Дмитро та Тетяна", type: "couple" },
   { slug: "petro-maria", name: "Петро та Марія", type: "couple" },
   { slug: "ivan-olga", name: "Іван Іванович і Ольга Георгіївна", type: "couple" },
+  { slug: "anya", name: "Аня", type: "single", gender: "f" },
   // Додавайте гостей сюди у форматі: { slug: "...", name: "...", type: "single", gender: "m" }
 ]
 
